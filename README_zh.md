@@ -2,6 +2,9 @@
 
 一個簡潔且具質感的網頁應用，透過 YouTube Data API v3，從任何 YouTube 影片網址中擷取 **Channel ID**。
 
+<img width="823" height="780" alt="image" src="https://github.com/user-attachments/assets/2b828e96-8418-4793-8d92-d429c7ed5b3e" />
+
+
 ![Built with TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Deploy on Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?logo=googlecloud&logoColor=white)
