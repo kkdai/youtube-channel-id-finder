@@ -2,6 +2,9 @@
 
 A sleek, modern web application that extracts the **Channel ID** from any YouTube video URL using the YouTube Data API v3.
 
+<img width="823" height="780" alt="image" src="https://github.com/user-attachments/assets/32e65e39-3b53-4cf0-a25b-707621f11b0a" />
+
+
 ![Built with TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Deploy on Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?logo=googlecloud&logoColor=white)
